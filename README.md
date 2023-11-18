@@ -13,7 +13,7 @@ The purpose of this challenge is to learn about and gain experience writing unit
 
 
 # Write Unit Tests for Project 3 Inputs
-> You should write unit tests for the five inputs from the stock visualizer challenge that enforce the following constraints.
+> You should write unit tests for the five inputs from the **stock visualizer** challenge that enforce the following constraints.
 
 * **stock symbol**: capitalized, 1-7 alpha characters
 * **chart type**: 1 numeric character, 1 or 2
